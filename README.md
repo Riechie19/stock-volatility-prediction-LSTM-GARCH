@@ -1,4 +1,4 @@
-# A Comparative Study of LSTM and GARCH in Predicting Stock Prices Volatility and Estimating Value-at-Risk
+# Stock Volatility Prediction Using LSTM and GARCH
 $\qquad$ Accurately predicting stock prices is highly sought after in the investment world due to its potential for generating profits. One of the key factors in price prediction is stock volatility, which serves as an important indicator of future price movements. This project investigates two different approaches to forecasting stock price volatility: the Long Short-Term Memory (LSTM) neural network model and the Generalized Autoregressive Conditional Heteroskedasticity (GARCH) econometric model.
 
 $\qquad$ The goal of this study is to determine which model provides more reliable volatility predictions. We applied both models to Indonesian stocks from various industries and assessed their performance using three key metrics: Mean Absolute Error (MAE), Root Mean Squared Error (RMSE), and Mean Absolute Percentage Error (MAPE). Additionally, we used the predicted volatility to calculate the Value-at-Risk (VaR) for each stock, offering a comprehensive tool for risk assessment.
