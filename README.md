@@ -11,7 +11,7 @@ Key Features:
 - Calculation of Value-at-Risk (VaR) for comprehensive risk analysis.
 - Focus on Indonesian stock market data across various industries.
 
-$\qquad$ This study provides valuable insights into the strengths and limitations of both models, offering a more nuanced approach to risk assessment in stock investments. The findings are documented in a research paper and presented in [ICoMCoS 2024](https://icomcos.fst.conference.unair.ac.id/).
+$\qquad$ This study provides valuable insights into the strengths and limitations of both models, offering a more nuanced approach to risk assessment in stock investments. The findings are documented in a research paper and presented in [ICoMCoS 2024](https://drive.google.com/file/d/1XJeWBpRfdyo6vpEKcDrYv_mg2o6WYxtJ/view?usp=sharing).
 
 
 
